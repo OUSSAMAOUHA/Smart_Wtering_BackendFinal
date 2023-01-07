@@ -39,6 +39,6 @@ spring.datasource.url=jdbc:mysql://localhost:3306/testSchema2 spring.datasource.
 
 ## Auteurs 
 
-* **OUHAYOU OUSSAMA** 
-* * **BERRHOU SALAH EDDINE** 
-* * **ED_DAIF KAOUTHAR**
+**OUHAYOU OUSSAMA** 
+**BERRHOU SALAH EDDINE** 
+**ED_DAIF KAOUTHAR**
