@@ -20,6 +20,7 @@ Il faut dabord comprendre la conception du projet
             Il faut installer IntelliJ IDEA 
 
 IntelliJ IDEA également appelé « IntelliJ », « IDEA » ou « IDJ » est un environnement de développement intégré (en anglais Integrated Development Environment - IDE) destiné au développement de logiciels informatiques reposant sur la technologie Java. Il est développé par JetBrains (anciennement « IntelliJ ») et disponible en deux versions, l'une communautaire, open source, sous licence Apache 2 et l'autre propriétaire, protégée par une licence commerciale. Tous deux supportent les langages de programmation Java, Kotlin, Groovy et Scala.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"> 
 
             Il faut installer XAMPP 
@@ -39,6 +40,6 @@ spring.datasource.url=jdbc:mysql://localhost:3306/testSchema2 spring.datasource.
 
 ## Auteurs 
 
-**OUHAYOU OUSSAMA** 
-**BERRHOU SALAH EDDINE** 
-**ED_DAIF KAOUTHAR**
+***OUHAYOU OUSSAMA** 
+***BERRHOU SALAH EDDINE** 
+***ED_DAIF KAOUTHAR**
